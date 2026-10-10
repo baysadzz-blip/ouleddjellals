@@ -1,0 +1,6 @@
+{
+  "name": "Souq Ouled Djellal — Marketplace & Boutiques d'Oasis",
+  "description": "Plateforme locale d'Ouled Djellal (Algérie) pour acheter et vendre dattes Deglet Nour, laine locale, burnous, artisanat et produits du terroir avec BaridiMob et chat en direct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
